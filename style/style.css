@@ -1,0 +1,94 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background: #23232e;
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+header img{
+    width: 70px;
+    padding-bottom: 20px;
+}
+h2{
+    text-transform: uppercase;
+    font-size: 30px;
+
+}
+header p{
+    font-size: 12px;
+    padding-bottom: 30px;
+    color: #d4d4d5;
+}
+
+header span{
+    border: 1px solid white;
+    padding: 5px 7px;
+    border-radius: 50%;
+}
+.whatido{
+    background: url("image/background.png");
+    text-align: center;
+    padding: 10px 25%;
+    overflow: hidden;
+}
+.whatido .row .col{
+    width: 31.33%;
+    float: left;
+    text-align: left;
+}
+.whatido p{
+     color: #464b4f;
+     font-family: Segoe UI;
+}
+.whatido h2,h4{
+    color: #464b4f;
+    padding: 5px;
+}
+.mywork h4{
+    color: #ffff;
+}
+.mywork h6{
+    color: #7c86a4;
+}
+
+.mywork{
+    text-align: center;
+    padding: 10px 25%;
+    background: #23232e;
+    overflow: hidden;
+    color: white;
+}
+.mywork .menu{
+    margin-bottom: 10px;
+}
+.mywork .menu ul li{
+    list-style: none;
+    margin: 10px 15px;
+    padding: 0 10px;
+    float: left;
+}
+.mywork .menu ul li a{
+    color: #a3a3a5;
+    text-decoration: none;
+}
+.mywork .menu .active{
+    text-decoration: underline;
+}
+.mywork .row1 .col1{
+    float: left;
+    padding: 5px;
+    width: 31.33%;
+}
+.mywork .row1 .col1 img{
+    width: 100%;
+}
+.mywork .bt button{
+    background: #7b77c9;
+    padding: 15px 25px;
+    border-radius: 2%;
+    border: none;
+
+}
